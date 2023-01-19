@@ -1,7 +1,5 @@
-# Make sure to install the torch dependencies with conda:
-# conda install pytorch=1.11.0 torchdata torchvision -c pytorch -y
+# Most of them are probably not used, but anyways
 
-gym==0.23.1
 fancy_einsum
 einops
 requests
@@ -30,7 +28,6 @@ plotly
 sympy
 accelerate
 pre-commit
-diffusers
 circuitsvis
 torchtyping
 typeguard
